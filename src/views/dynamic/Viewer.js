@@ -17,7 +17,7 @@ const useStyles = makeStyles(({
   title: {
     marginLeft: 10,
     textAlign: 'center',
-    fontSize: 40,
+    fontSize: 32,
     fontWeight: '600',
   },
   content: {

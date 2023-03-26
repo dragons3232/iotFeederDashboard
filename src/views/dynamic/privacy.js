@@ -1,5 +1,5 @@
 export default {
-  title: 'iotFeeder - Privacy Policy',
+  title: 'iotFeeder',
   content: `<p>Data protection is important to us, and we take it very seriously. We rely on reliable cooperation with you and do our best to your satisfaction - this of course also applies to the processing of your personal data. With these data protection terms, we would like to inform you about how your personal data is handled. Therefore please consider the following information. These data protection terms are a supplement to the Terms of Use</p>
 
   <p>During the development of our application and implementation of new legal requirements, new technology or to improve our services, changes to this privacy policy may occur. For that reason we recommend that you refer back to this privacy policy from time to time.</p>
