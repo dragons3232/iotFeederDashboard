@@ -10,7 +10,7 @@ export default {
   <ul>
   <li>Vo Hong Hoan</li>
   <li>Hotline: 097.580.0171</li>
-  <li>Email: vohonghoan@gmail.com</li>
+  <li>Email: home.autopy@gmail.com</li>
   </ul>
 
   <h3>2. General information about personal data processing</h3>
@@ -50,7 +50,7 @@ export default {
   <ul>
   <li>Vo Hong Hoan</li>
   <li>Hotline: 097.580.0171</li>
-  <li>Email: vohonghoan@gmail.com</li>
+  <li>Email: home.autopy@gmail.com</li>
   </ul>
   
   <br><br>`,
